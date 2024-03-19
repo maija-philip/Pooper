@@ -7,20 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A80282722B8E8EEF007F3E84 /* CalendarPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80282712B8E8EEF007F3E84 /* CalendarPageView.swift */; };
+		A80282742B8E8EF7007F3E84 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80282732B8E8EF7007F3E84 /* StatsView.swift */; };
+		A80282762B8E8F2C007F3E84 /* Poop.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80282752B8E8F2C007F3E84 /* Poop.swift */; };
+		A80282782B8E8FB6007F3E84 /* PoopEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80282772B8E8FB6007F3E84 /* PoopEnums.swift */; };
+		A833B7832B9B6100006B7940 /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A833B7822B9B6100006B7940 /* SampleData.swift */; };
+		A83859112B9A79670098B74A /* UIColorHexExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83859102B9A79670098B74A /* UIColorHexExtension.swift */; };
+		A83C4EBA2B9B7FA900312C3F /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83C4EB92B9B7FA900312C3F /* CalendarView.swift */; };
+		A85280DC2BA77958007996CE /* ThisWeekPoopsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85280DB2BA77958007996CE /* ThisWeekPoopsView.swift */; };
+		A85280DE2BA77D46007996CE /* StatBlock.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85280DD2BA77D46007996CE /* StatBlock.swift */; };
+		A85280E02BA79468007996CE /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85280DF2BA79468007996CE /* DateExtension.swift */; };
 		A863418C2B8E808F007D8915 /* PooperApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A863418B2B8E808F007D8915 /* PooperApp.swift */; };
 		A863418E2B8E808F007D8915 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A863418D2B8E808F007D8915 /* ContentView.swift */; };
-		A86341902B8E808F007D8915 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = A863418F2B8E808F007D8915 /* Item.swift */; };
 		A86341922B8E8092007D8915 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A86341912B8E8092007D8915 /* Assets.xcassets */; };
 		A86341952B8E8092007D8915 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A86341942B8E8092007D8915 /* Preview Assets.xcassets */; };
+		A86341A22B8E8247007D8915 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A86341A12B8E8247007D8915 /* HomeView.swift */; };
+		A87D01462B8EB40D00705FF1 /* NewPoopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87D01452B8EB40D00705FF1 /* NewPoopView.swift */; };
+		A88594CD2BA905ED009071C3 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88594CC2BA905ED009071C3 /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A80282712B8E8EEF007F3E84 /* CalendarPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarPageView.swift; sourceTree = "<group>"; };
+		A80282732B8E8EF7007F3E84 /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
+		A80282752B8E8F2C007F3E84 /* Poop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Poop.swift; sourceTree = "<group>"; };
+		A80282772B8E8FB6007F3E84 /* PoopEnums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoopEnums.swift; sourceTree = "<group>"; };
+		A833B7822B9B6100006B7940 /* SampleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
+		A83859102B9A79670098B74A /* UIColorHexExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorHexExtension.swift; sourceTree = "<group>"; };
+		A83C4EB92B9B7FA900312C3F /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
+		A85280DB2BA77958007996CE /* ThisWeekPoopsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThisWeekPoopsView.swift; sourceTree = "<group>"; };
+		A85280DD2BA77D46007996CE /* StatBlock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatBlock.swift; sourceTree = "<group>"; };
+		A85280DF2BA79468007996CE /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
 		A86341882B8E808F007D8915 /* Pooper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pooper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A863418B2B8E808F007D8915 /* PooperApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PooperApp.swift; sourceTree = "<group>"; };
 		A863418D2B8E808F007D8915 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A863418F2B8E808F007D8915 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		A86341912B8E8092007D8915 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A86341942B8E8092007D8915 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A86341A12B8E8247007D8915 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		A87D01452B8EB40D00705FF1 /* NewPoopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPoopView.swift; sourceTree = "<group>"; };
+		A88594CC2BA905ED009071C3 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +58,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A85280DA2BA778E7007996CE /* PageViews */ = {
+			isa = PBXGroup;
+			children = (
+				A863418D2B8E808F007D8915 /* ContentView.swift */,
+				A86341A12B8E8247007D8915 /* HomeView.swift */,
+				A80282712B8E8EEF007F3E84 /* CalendarPageView.swift */,
+				A80282732B8E8EF7007F3E84 /* StatsView.swift */,
+				A87D01452B8EB40D00705FF1 /* NewPoopView.swift */,
+			);
+			path = PageViews;
+			sourceTree = "<group>";
+		};
 		A863417F2B8E808F007D8915 = {
 			isa = PBXGroup;
 			children = (
@@ -53,9 +89,10 @@
 		A863418A2B8E808F007D8915 /* Pooper */ = {
 			isa = PBXGroup;
 			children = (
+				A863419E2B8E819C007D8915 /* Classes */,
+				A863419D2B8E818A007D8915 /* SubViews */,
+				A85280DA2BA778E7007996CE /* PageViews */,
 				A863418B2B8E808F007D8915 /* PooperApp.swift */,
-				A863418D2B8E808F007D8915 /* ContentView.swift */,
-				A863418F2B8E808F007D8915 /* Item.swift */,
 				A86341912B8E8092007D8915 /* Assets.xcassets */,
 				A86341932B8E8092007D8915 /* Preview Content */,
 			);
@@ -68,6 +105,29 @@
 				A86341942B8E8092007D8915 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A863419D2B8E818A007D8915 /* SubViews */ = {
+			isa = PBXGroup;
+			children = (
+				A83C4EB92B9B7FA900312C3F /* CalendarView.swift */,
+				A85280DB2BA77958007996CE /* ThisWeekPoopsView.swift */,
+				A85280DD2BA77D46007996CE /* StatBlock.swift */,
+				A88594CC2BA905ED009071C3 /* Test.swift */,
+			);
+			path = SubViews;
+			sourceTree = "<group>";
+		};
+		A863419E2B8E819C007D8915 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A80282752B8E8F2C007F3E84 /* Poop.swift */,
+				A80282772B8E8FB6007F3E84 /* PoopEnums.swift */,
+				A83859102B9A79670098B74A /* UIColorHexExtension.swift */,
+				A833B7822B9B6100006B7940 /* SampleData.swift */,
+				A85280DF2BA79468007996CE /* DateExtension.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,7 +201,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				A863418E2B8E808F007D8915 /* ContentView.swift in Sources */,
-				A86341902B8E808F007D8915 /* Item.swift in Sources */,
+				A85280E02BA79468007996CE /* DateExtension.swift in Sources */,
+				A88594CD2BA905ED009071C3 /* Test.swift in Sources */,
+				A83C4EBA2B9B7FA900312C3F /* CalendarView.swift in Sources */,
+				A85280DC2BA77958007996CE /* ThisWeekPoopsView.swift in Sources */,
+				A80282722B8E8EEF007F3E84 /* CalendarPageView.swift in Sources */,
+				A80282762B8E8F2C007F3E84 /* Poop.swift in Sources */,
+				A83859112B9A79670098B74A /* UIColorHexExtension.swift in Sources */,
+				A85280DE2BA77D46007996CE /* StatBlock.swift in Sources */,
+				A86341A22B8E8247007D8915 /* HomeView.swift in Sources */,
+				A80282782B8E8FB6007F3E84 /* PoopEnums.swift in Sources */,
+				A87D01462B8EB40D00705FF1 /* NewPoopView.swift in Sources */,
+				A833B7832B9B6100006B7940 /* SampleData.swift in Sources */,
+				A80282742B8E8EF7007F3E84 /* StatsView.swift in Sources */,
 				A863418C2B8E808F007D8915 /* PooperApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -276,9 +348,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Pooper/Preview Content\"";
-				DEVELOPMENT_TEAM = 842DN58H4A;
+				DEVELOPMENT_TEAM = QLS2MEXS82;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -305,9 +378,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Pooper/Preview Content\"";
-				DEVELOPMENT_TEAM = 842DN58H4A;
+				DEVELOPMENT_TEAM = QLS2MEXS82;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
